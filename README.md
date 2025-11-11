@@ -4,5 +4,4 @@ Cybersecurity Specialist
 --------------------
 
 * 🌍  I'm based in Bucharest
-* ✉️  You can contact me at [costeageorgealin@yahoo.com](mailto:costeageorgealin@yahoo.com)
 * 🤝  I'm open to collaborating on Interesing projects
