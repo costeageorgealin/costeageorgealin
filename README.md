@@ -21,21 +21,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=costeageorgealin&show_icons=true" />
 </picture>
 
-<picture>
-  <!-- Dark mode -->
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=costeageorgealin&layout=compact&theme=chartreuse-dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <!-- Light mode -->
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=costeageorgealin&layout=compact&theme=default"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <!-- Fallback -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=costeageorgealin&layout=compact" />
-</picture>
-
 ---
 
 ### 🚀 About Me
