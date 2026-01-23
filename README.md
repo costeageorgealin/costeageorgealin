@@ -92,7 +92,7 @@ I love sharing knowledge! I regularly attentd to:
 
 [![Blog](https://img.shields.io/badge/Blog-blog.George.Medium-00D9FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://medium.com/@costeageorgealin)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/george-alin-costea-4aa24b252/)
-[![Email](https://img.shields.io/badge/Email-costeageorgealin@yahoo.com-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:costeagorgealin@yahoo.com)
+[![Email](https://img.shields.io/badge/Email-costeageorgealin@yahoo.com-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:costeagorgealin@proton.me)
 ---
 
 **💼 Open Collaboration & Remote Work**
