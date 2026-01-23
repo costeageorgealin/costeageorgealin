@@ -16,8 +16,8 @@
 ```yaml
 
 what_i_do:
-  - Cloud Native Security (Azure, Docker)
   - Threat Detection & Incident Response
+  - Cloud Native Security
   - AI-Powered Security Operations
 
 passionate_about:
