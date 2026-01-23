@@ -71,7 +71,7 @@ I love sharing knowledge! I regularly attentd to:
 
 ![Microsoft Sentinel XDR](https://img.shields.io/badge/🛡️Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![CrowdStrike Falcon](https://img.shields.io/badge/🦅CrowdStrike-FD4C4C?style=for-the-badge&logo=crowdstrike&logoColor=white)
-![Falcon Sandbox](https://img.shields.io/badge/🧪Falcon_Sandbox-4C4A73?style=for-the-badge&logo=falco&logoColor=white)
+![Falcon Sandbox](https://img.shields.io/badge/Falcon_Sandbox-4C4A73?style=for-the-badge&logo=falco&logoColor=white)
 ![Trellix](https://img.shields.io/badge/🔥Trellix-00AEC7?style=for-the-badge&logo=trellix&logoColor=white)
 ![CyberArk](https://img.shields.io/badge/🔐CyberArk-003366?style=for-the-badge&logo=cyberark&logoColor=white)
 ![OSINTS](https://img.shields.io/badge/🕵️‍♂️OSINTS-FF9900?style=for-the-badge&logo=github&logoColor=white)
