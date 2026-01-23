@@ -9,8 +9,6 @@
 
 </div>
 
-![Costea George-Alin GitHub Stats](https://github-readme-stats.vercel.app/api?username=CosteaGeorge-Alin&show_icons=true&theme=react&hide_border=true)
-
 
 ---
 
