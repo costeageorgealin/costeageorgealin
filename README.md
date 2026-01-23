@@ -101,7 +101,7 @@ I'm actively looking for : <br/>
 🌍 Remote Security / DevSecOps Security roles <br/>
 🤝 Open source security projects to contribute to <br/>
 🕵️‍♂️ Speaking opportunities at conferences & meetups <br/>
-🏆 Hackathon teammates who love building cool stuff <br/>
+🏆 Hackathon teammates with a passion for cybersecurity <br/>
 
 :bar_chart: GitHub stats
 
