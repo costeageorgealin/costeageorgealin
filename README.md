@@ -101,7 +101,7 @@ I love sharing knowledge! I regularly attentd to:
 
 **💼 Open Collaboration & Remote Work**
 
-I'm actively looking for: <br/>
+I'm actively looking for : <br/>
 🌍 Remote DevSecOps / Cloud Security roles <br/>
 🤝 Open source security projects to contribute to <br/>
 🕵️‍♂️ Speaking opportunities at conferences & meetups <br/>
