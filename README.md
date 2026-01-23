@@ -21,16 +21,16 @@ what_i_do:
   - AI-Powered Security Operations
 
 passionate_about:
-  - 🎤 Speaking at tech conferences & meetups
-  - 🏆 Participating at hackathons
-  - 📚 Creating open-source learning resources
-  - 🤝 Collaborating on security projects
+  -  Speaking at tech conferences & meetups
+  -  Participating at hackathons
+  -  Creating open-source learning resources
+  -  Collaborating on security projects
 
 currently_learning:
-  - 🧠 Digital Forensics and Incident Response
-  - 🤖 AI Security
-  - 🛡️ PICERL methodology
-  - ⚡ High-Performance Model Serving
+  -  Digital Forensics and Incident Response
+  -  AI Security
+  -  PICERL methodology
+  -  High-Performance Model Serving
 
 open_to:
   - Remote roles in Incident Response / Threat Hunting
