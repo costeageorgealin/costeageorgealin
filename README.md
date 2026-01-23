@@ -107,7 +107,7 @@ I'm actively looking for : <br/>
 🕵️‍♂️ Speaking opportunities at conferences & meetups <br/>
 🏆 Hackathon teammates who love building cool stuff <br/>
 
-**:bar_chart: GitHub stats
+:bar_chart: GitHub stats
 
 <picture>
   <source
