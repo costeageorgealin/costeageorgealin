@@ -9,6 +9,10 @@
 
 </div>
 
+---
+
+### 🚀 About Me
+
 <div align="center">
   
 <picture>
@@ -25,10 +29,6 @@
 
 
 </div>
-
----
-
-### 🚀 About Me
 
 ```yaml
 
