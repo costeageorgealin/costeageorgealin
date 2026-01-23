@@ -48,7 +48,7 @@ open_to:
 
 I love sharing knowledge! I regularly attentd to:
 - **Tech Conferences** - Cloud, Security, DevOps topics
-- **University Events** - Participating at different events like Unbreakable, HackTheBox and TryHackMe events
+- **University Events** - Participating in different events like Unbreakable, HackTheBox and TryHackMe
 - **Meetups & Workshops** - Hands-on security training
 
 ---
