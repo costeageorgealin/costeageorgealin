@@ -94,6 +94,7 @@ I love sharing knowledge! I regularly attentd to:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/george-alin-costea-4aa24b252/)
 [![Email](https://img.shields.io/badge/Email-costeageorgealin@yahoo.com-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:costeagorgealin@yahoo.com)
 
+[![Email](https://img.shields.io/badge/Email-costeageorgealin@yahoo.com?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:costeagorgealin@yahoo.com)
 ---
 
 **💼 Open Collaboration & Remote Work**
