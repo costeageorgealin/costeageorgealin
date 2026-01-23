@@ -9,7 +9,10 @@
 
 </div>
 
-
+<div align="center">
+  
+| GitHub Stats | 
+|--------------|
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=costeageorgealin&show_icons=true&theme=chartreuse-dark"
@@ -22,13 +25,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=costeageorgealin&show_icons=true" />
 </picture>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&stats_format=bytes)
-
-
-| GitHub Stats | Top Languages |
-|--------------|---------------|
-| <img src="https://github-readme-stats.vercel.app/api?username=costeageorgealin&show_icons=true&theme=chartreuse-dark" width="350"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=costeageorgealin&layout=compact&theme=chartreuse-dark" width="350"/> |
-
+</div>
 
 ---
 
