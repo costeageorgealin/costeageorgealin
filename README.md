@@ -11,8 +11,6 @@
 
 <div align="center">
   
-| GitHub Stats | 
-|--------------|
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=costeageorgealin&show_icons=true&theme=chartreuse-dark"
