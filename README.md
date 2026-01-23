@@ -81,7 +81,7 @@ I love sharing knowledge! I regularly attentd to:
 **Project management and issue tracking tool**
 
 ![ServiceNow](https://img.shields.io/badge/🚀ServiceNow-00B478?style=for-the-badge&logo=servicenow&logoColor=white)
-![Jira](https://img.shields.io/badge/🐞Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 **Languages & Tools**
 
