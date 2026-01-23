@@ -55,9 +55,9 @@ I love sharing knowledge! I regularly attentd to:
 
 ### 🏆 Certifications 
 
-:ballot_box_with_check: CompTIA Security+  - ID : QWCQ103S811EQLY2
-:ballot_box_with_check: Microsoft Certified: Security Operations Analyst Associate - ID : 3F7E169AC674693B
-:ballot_box_with_check: Microsoft Certified: Security, Compliance, and Identity Fundamentals - ID : F23CE61985152518
+:ballot_box_with_check: CompTIA Security+  - ID : QWCQ103S811EQLY2   <br/>
+:ballot_box_with_check: Microsoft Certified: Security Operations Analyst Associate - ID : 3F7E169AC674693B    <br/>
+:ballot_box_with_check: Microsoft Certified: Security, Compliance, and Identity Fundamentals - ID : F23CE61985152518    <br/>
 
 
 ### 🛠️ Tech Stack
@@ -106,8 +106,8 @@ I love sharing knowledge! I regularly attentd to:
 **💼 Open Collaboration & Remote Work**
 
 I'm actively looking for:
-- 🌍 Remote DevSecOps / Cloud Security roles
-- 🤝 Open source security projects to contribute to
-- 🎤 Speaking opportunities at conferences & meetups
-- 🏆 Hackathon teammates who love building cool stuff
+🌍 Remote DevSecOps / Cloud Security roles
+🤝 Open source security projects to contribute to
+🎤 Speaking opportunities at conferences & meetups
+🏆 Hackathon teammates who love building cool stuff
 
