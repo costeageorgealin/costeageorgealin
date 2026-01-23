@@ -41,23 +41,6 @@ open_to:
 
 ---
 
-<div align="center">
-  
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=costeageorgealin&show_icons=true&theme=algolia"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=costeageorgealin&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=costeageorgealin&show_icons=true" />
-</picture>
-
-</div>
-
-
 ### 🎤 Events
 
 I love sharing knowledge! I regularly attentd to:
@@ -123,4 +106,20 @@ I'm actively looking for : <br/>
 🤝 Open source security projects to contribute to <br/>
 🕵️‍♂️ Speaking opportunities at conferences & meetups <br/>
 🏆 Hackathon teammates who love building cool stuff <br/>
+
+### :bar_chart: Github stats!
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=costeageorgealin&show_icons=true&theme=algolia"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=costeageorgealin&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=costeageorgealin&show_icons=true" />
+</picture>
+
+</div>
 
