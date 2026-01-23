@@ -90,7 +90,7 @@ I love sharing knowledge! I regularly attentd to:
 
 <div align="center">
 
-[![Blog](https://img.shields.io/badge/Blog-blog.George.dev-00D9FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://medium.com/@costeageorgealin)
+[![Blog](https://img.shields.io/badge/Blog-blog.George.Medium-00D9FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://medium.com/@costeageorgealin)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/farhanashrafdev)
 [![Email](https://img.shields.io/badge/Email-Contact-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:costeagorgealin@yahoo.com)
 
