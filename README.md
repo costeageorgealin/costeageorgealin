@@ -76,8 +76,6 @@ I love sharing knowledge! I regularly attentd to:
 ![CyberArk](https://img.shields.io/badge/🔐CyberArk-003366?style=for-the-badge&logo=cyberark&logoColor=white)
 ![Github](https://img.shields.io/badge/OSINTS-FF9900?style=for-the-badge&logo=github&logoColor=white)
 
-🕵️‍♂️
-
 **Project management and issue tracking tool**
 
 ![ServiceNow](https://img.shields.io/badge/🚀ServiceNow-00B478?style=for-the-badge&logo=servicenow&logoColor=white)
@@ -103,9 +101,9 @@ I love sharing knowledge! I regularly attentd to:
 
 **💼 Open Collaboration & Remote Work**
 
-I'm actively looking for:
-🌍 Remote DevSecOps / Cloud Security roles
-🤝 Open source security projects to contribute to
-🎤 Speaking opportunities at conferences & meetups
-🏆 Hackathon teammates who love building cool stuff
+I'm actively looking for: <br/>
+🌍 Remote DevSecOps / Cloud Security roles <br/>
+🤝 Open source security projects to contribute to <br/>
+🕵️‍♂️ Speaking opportunities at conferences & meetups <br/>
+🏆 Hackathon teammates who love building cool stuff <br/>
 
