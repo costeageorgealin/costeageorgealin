@@ -21,7 +21,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=costeageorgealin&show_icons=true" />
 </picture>
 
-
+![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=costeageorgealin&theme=chartreuse-dark_icons=true)
 
 ---
 
