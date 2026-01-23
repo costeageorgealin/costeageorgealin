@@ -14,6 +14,7 @@
 ### 🚀 About Me
 
 ```yaml
+about_me:
 name: Costea George-Alin
 role: Cybersecurity Specialist
 location: Romania, Bucharest
