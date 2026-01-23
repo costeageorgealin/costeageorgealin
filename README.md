@@ -15,10 +15,6 @@
 
 ```yaml
 
-name: Costea George-Alin
-role: Cybersecurity Specialist
-location: Romania, Bucharest
-
 what_i_do:
   - Cloud Native Security (Azure, Docker)
   - Threat Detection & Incident Response
