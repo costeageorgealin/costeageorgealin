@@ -74,9 +74,9 @@ I love sharing knowledge! I regularly attentd to:
 ![Falcon Sandbox](https://img.shields.io/badge/Falcon_Sandbox-4C4A73?style=for-the-badge&logo=falco&logoColor=white)
 ![Trellix](https://img.shields.io/badge/🔥Trellix-00AEC7?style=for-the-badge&logo=trellix&logoColor=white)
 ![CyberArk](https://img.shields.io/badge/🔐CyberArk-003366?style=for-the-badge&logo=cyberark&logoColor=white)
-![OSINTS](https://img.shields.io/badge/🕵️‍♂️OSINTS-FF9900?style=for-the-badge&logo=github&logoColor=white)
+![Github](https://img.shields.io/badge/OSINTS-FF9900?style=for-the-badge&logo=github&logoColor=white)
 
-
+🕵️‍♂️
 
 **Project management and issue tracking tool**
 
