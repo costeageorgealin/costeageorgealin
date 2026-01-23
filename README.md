@@ -9,7 +9,7 @@
 
 </div>
 
-<div>
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=costeageorgealin&show_icons=true&theme=chartreuse-dark"
@@ -23,7 +23,7 @@
 </picture>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&stats_format=bytes)
-</div>
+
 ---
 
 ### 🚀 About Me
